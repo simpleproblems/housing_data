@@ -6,3 +6,7 @@ and sales is around 10,000 lines.
 
 Just sample sales.csv to create properties.csv (100 properties).
 
+def find_closest_sales(n_closest, sales_df, property_lat, property_lon):
+  --> dataframe of n closest sales
+ 
+
