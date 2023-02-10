@@ -4,3 +4,5 @@ write a function that takes a single property from properties.csv as lat,long an
 Properties is around 1,000,000 lines
 and sales is around 10,000 lines.
 
+Just sample sales.csv to create properties.csv (100 properties).
+
